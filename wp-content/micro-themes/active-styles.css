@@ -1,0 +1,85 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> background imagem **/
+.uagb-section__background-image > .uagb-section__overlay {
+	list-style-position: outside !important;
+	width: 1920px !important;
+	height: 600px !important;
+	box-sizing: content-box !important;
+}
+
+
+/*= Cabeçalho ================ */
+
+/** Cabeçalho >> logo **/
+#masthead .custom-logo {
+	position: relative !important;
+	left: 150px !important;
+}
+
+
+/*= Menu principal ============ */
+
+/** Menu principal >> menu de navegacao **/
+#site-navigation > .main-navigation {
+	position: relative !important;
+	right: 300px !important;
+}
+
+
+/*= Conteúdo ================= */
+
+/** Conteúdo >> imagens ao centro **/
+.aligncenter > img {
+	position: relative !important;
+	bottom: 10px !important;
+}
+
+/** Conteúdo >> descricao ao centro **/
+.aligncenter > figcaption {
+	color: rgb(254, 254, 254) !important;
+	font-size: 18px !important;
+	text-align: left !important;
+	position: relative !important;
+	bottom: 130px !important;
+	left: 30px !important;
+}
+
+/** Conteúdo >> texto categoria **/
+#post-9 .uagb-ifb-content {
+	color: rgb(42, 46, 49) !important;
+	position: relative !important;
+	bottom: 100px !important;
+	left: 30px !important;
+}
+
+/** Conteúdo >> Wp block group inner container image **/
+.wp-block-group__inner-container img {
+	position: relative !important;
+	left: 400px !important;
+}
+
+/** Conteúdo >> ana e joao **/
+.size-large .has-inline-color {
+	position: relative !important;
+	left: 500px !important;
+}
+
+
+/*= Rodapé =================== */
+
+/** Rodapé >> rodape **/
+#colophon .ast-small-footer-section-1 {
+	position: relative !important;
+	right: 130px !important;
+}
+
+/** Rodapé >> rodape 2 **/
+#colophon .ast-small-footer-section-2 {
+	position: relative !important;
+	right: 40px !important;
+}
+
